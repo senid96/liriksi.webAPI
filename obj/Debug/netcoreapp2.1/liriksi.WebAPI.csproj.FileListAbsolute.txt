@@ -1,0 +1,17 @@
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\bin\Debug\netcoreapp2.1\liriksi.WebAPI.deps.json
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\bin\Debug\netcoreapp2.1\liriksi.WebAPI.runtimeconfig.json
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\bin\Debug\netcoreapp2.1\liriksi.WebAPI.runtimeconfig.dev.json
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\bin\Debug\netcoreapp2.1\liriksi.WebAPI.dll
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\bin\Debug\netcoreapp2.1\liriksi.WebAPI.pdb
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\bin\Debug\netcoreapp2.1\liriksi.Model.dll
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\bin\Debug\netcoreapp2.1\liriksi.Model.pdb
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.csprojAssemblyReference.cache
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.RazorAssemblyInfo.cache
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.RazorAssemblyInfo.cs
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.AssemblyInfoInputs.cache
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.AssemblyInfo.cs
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.csproj.CopyComplete
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.dll
+C:\Users\senid.ajkunic\Desktop\RSII-SeminarskiRad-150013\Aplikacija-150013\liriksi\liriksi.WebAPI\obj\Debug\netcoreapp2.1\liriksi.WebAPI.pdb

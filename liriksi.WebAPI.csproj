@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\**" />
+    <Content Remove="Migrations\**" />
+    <EmbeddedResource Remove="Migrations\**" />
+    <None Remove="Migrations\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Migrations\20200722103341_fix4.cs" />
+    <Compile Include="Migrations\20200722103341_fix4.Designer.cs" />
+    <Compile Include="Migrations\20200722103724_fix5.cs" />
+    <Compile Include="Migrations\20200722103724_fix5.Designer.cs" />
+    <Compile Include="Migrations\20200722123617_fix6.cs" />
+    <Compile Include="Migrations\20200722123617_fix6.Designer.cs" />
+    <Compile Include="Migrations\20200723071130_performerFix.cs" />
+    <Compile Include="Migrations\20200723071130_performerFix.Designer.cs" />
+    <Compile Include="Migrations\20200723123014_fixDb6.cs" />
+    <Compile Include="Migrations\20200723123014_fixDb6.Designer.cs" />
+    <Compile Include="Migrations\20200723123106_fixDb7.cs" />
+    <Compile Include="Migrations\20200723123106_fixDb7.Designer.cs" />
+    <Compile Include="Migrations\20200724064634_deletefix.cs" />
+    <Compile Include="Migrations\20200724064634_deletefix.Designer.cs" />
+    <Compile Include="Migrations\20200724064834_deletefix1.cs" />
+    <Compile Include="Migrations\20200724064834_deletefix1.Designer.cs" />
+    <Compile Include="Migrations\20200724105418_performerImgFix.cs" />
+    <Compile Include="Migrations\20200724105418_performerImgFix.Designer.cs" />
+    <Compile Include="Migrations\20200724112855_performerImgFix3.cs" />
+    <Compile Include="Migrations\20200724112855_performerImgFix3.Designer.cs" />
+    <Compile Include="Migrations\20200826124401_description to album.cs" />
+    <Compile Include="Migrations\20200826124401_description to album.Designer.cs" />
+    <Compile Include="Migrations\20201101150945_aboutPerformer.cs" />
+    <Compile Include="Migrations\20201101150945_aboutPerformer.Designer.cs" />
+    <Compile Include="Migrations\LiriksiContextModelSnapshot.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+    <PackageReference Include="runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk" Version="2.2.10" />
+    <PackageReference Include="runtime.win10-x86.Microsoft.NETCore.UniversalWindowsPlatform" Version="6.2.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\liriksi.Model\liriksi.Model.csproj" />
+  </ItemGroup>
+
+</Project>
